@@ -54,3 +54,27 @@
 						2
 					]
 				},
+{
+					"group": "Element Metalloid Boron p",
+					"position": 12,
+					"name": "Boron",
+					"number": 5,
+					"small": "B",
+					"molar": 10.811,
+					"electrons": [
+						2,
+						3
+					]
+				},
+				{
+					"group": "Element Nonmetal Carbon p",
+					"position": 13,
+					"name": "Carbon",
+					"number": 6,
+					"small": "C",
+					"molar": 12.0107,
+					"electrons": [
+						2,
+						4
+					]
+				},
