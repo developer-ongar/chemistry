@@ -27,3 +27,18 @@
 				}
 			]
 		},
+{
+			"wiki": "https://en.wikipedia.org/wiki/Period%202%20element",
+			"elements": [
+				{
+					"group": "Element Alkali s",
+					"position": 0,
+					"name": "Lithium",
+					"number": 3,
+					"small": "Li",
+					"molar": 6.941,
+					"electrons": [
+						2,
+						1
+					]
+				},
