@@ -14,3 +14,16 @@
 						1
 					]
 				},
+{
+					"group": "Element Noble p",
+					"position": 17,
+					"name": "Helium",
+					"number": 2,
+					"small": "He",
+					"molar": 4.002602,
+					"electrons": [
+						2
+					]
+				}
+			]
+		},
