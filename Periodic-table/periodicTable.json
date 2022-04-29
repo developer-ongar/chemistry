@@ -1,0 +1,16 @@
+{
+	"table": [
+		{
+			"wiki": "https://en.wikipedia.org/wiki/Period%201%20element",
+			"elements": [
+				{
+					"group": "",
+					"position": 0,
+					"name": "Hydrogen",
+					"number": 1,
+					"small": "H",
+					"molar": 1.00794,
+					"electrons": [
+						1
+					]
+				},
