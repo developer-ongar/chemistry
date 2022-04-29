@@ -42,3 +42,15 @@
 						1
 					]
 				},
+{
+					"group": "Element Alkaline s",
+					"position": 1,
+					"name": "Beryllium",
+					"number": 4,
+					"small": "Be",
+					"molar": 9.012182,
+					"electrons": [
+						2,
+						2
+					]
+				},
